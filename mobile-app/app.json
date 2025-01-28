@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "TerraTerri",
+    "slug": "snack-5058da13-92f0-4601-b447-0ee1a713678b",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/terraterri-logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/terraterri-entry.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#6C24AA"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/playstore.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.terraterriprojects.snack5058da1392f04601b4470ee1a713678b"
+    },
+    "web": {
+      "favicon": "./assets/terraterri.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d279a5af-7bb1-4ede-ab88-00d3463a8600"
+      }
+    }
+  }
+}
